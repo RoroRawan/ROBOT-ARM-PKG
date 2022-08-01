@@ -12,5 +12,10 @@ https://github.com/RoroRawan/install-ROS-1-and-ROS-2 what I did is I installed u
 * "type in this cmd:
 
 '''
- sudo apt install nautilus -y
+sudo apt install nautilus -y
 '''
+
+<p class="has-line-data" data-line-start="1" data-line-end="4">‘’’<br>
+sudo apt install nautilus -y<br>
+‘’’</p>
+
